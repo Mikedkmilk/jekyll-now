@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+learn and write something aout the computer and world
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+a little chinese boy called Mikedkmilk(meaning the man who make milk)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[myloveconans#msn.com(# replace @)](mailto:myloveconans@msn.com)
